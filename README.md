@@ -29,7 +29,7 @@ ___
 
 ### ⚙️Instructions:⚙️
 ___
-In order to use this application properly you should install Tomcat 9 version, MySQL and Postman.
+In order to use this application properly you should install Tomcat 9 version, MySQL.
 1) Clone this project from GitHub.
 2) Create your own schema and tables using init_db.sql file.
 3) Go to src/main/java/taxi/util/ConnectionUtil.java and provide URL, username, password, JDBC driver.
