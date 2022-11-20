@@ -23,9 +23,9 @@ ___
 * JDK 11
 * Maven 4.0.0
 * MySql 8.0.22
-
 ### 🎇Heroku:🎇
 [Click here to access!](https://taxi-service-crud-project.herokuapp.com/login)
+___
 
 ### ⚙️Instructions:⚙️
 ___
@@ -64,7 +64,7 @@ public class ConnectionUtil {
    * Press edit configurations.
    * Find Tomcat and do not forget to choose local.
    * Choose 'Taxi-service:war exploded'.
-   * Apply and okay.
+   * Press apply and okay.
 6) Use it.
 
 Schema:
