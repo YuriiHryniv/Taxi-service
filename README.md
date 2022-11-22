@@ -26,7 +26,10 @@ ___
 ### 🎇Heroku:🎇
 ___
 [Click here to access!](https://taxi-service-crud-project.herokuapp.com/login)
-
+### 🚀Access rights:🚀
+* register a new driver and authenticate as User;
+* authenticate as Admin (*login - admin, password - admin*);
+___
 ### ⚙️Instructions:⚙️
 ___
 In order to use this application properly you should install Tomcat 9 version, MySQL.
