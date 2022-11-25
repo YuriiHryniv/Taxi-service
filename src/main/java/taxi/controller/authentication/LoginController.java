@@ -13,8 +13,8 @@ import taxi.service.AuthenticationService;
 
 public class LoginController extends HttpServlet {
     // This is a default user to test the app
-    private static final String adminPass = "admin";          
-    private static final String adminLogin = "admin";   
+    private static final String ADMIN_PASS = "admin";          
+    private static final String ADMIN_LOGIN = "admin";   
     private static final Injector injector = Injector.getInstance("taxi");
     private final AuthenticationService authenticationService
             = (AuthenticationService) injector.getInstance(AuthenticationService.class);
