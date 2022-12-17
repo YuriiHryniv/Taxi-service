@@ -29,9 +29,7 @@ ___
 * Dependency Injection
 * Java Servlet
 * JSP
-### 🎇Heroku:🎇
-___
-[Click here to access!](https://taxi-service-crud-project.herokuapp.com/login)
+* 
 ### ⚙️Instructions:⚙️
 ___
 In order to use this application properly you should install Tomcat 9 version, MySQL.
